@@ -1,0 +1,33 @@
+ USUARIO :
+ Ian
+CONTRASEÑA :
+112345
+.................................................................
+
+
+DATOS DE VOTANTE:
+DUI..23244355-4
+NOMBRE:
+ROXANA ABIGAIL
+PINEDA ANGULO
+DEPTO:
+La Paz
+MUNICIPIO:
+Zacateculuca
+
+....................................................................
+ URL TSE:
+http://localhost/elecciones_partidos/index.php
+
+URL VOTANTE:
+http://localhost/elecciones_partidos/votar/index.php
+
+........................................................................
+ 
+* Las grafiacas Buscarlas en la Barra de Estadistica
+
+* La apertiura y cierre no funciona buien ya que bloque a todo menos la apertura y solo guarda para presidente.
+
+
+
+

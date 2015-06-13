@@ -1,0 +1,119 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	padding:50px 0;
+}
+.navbar{
+	margin-bottom:0;
+}
+.cabesera{
+	background-color:#2687ff;
+	margin-bottom:0;
+}
+.adaptar
+{
+	width:100%;
+}
+.fooret_tlh{
+	height:90px;
+	background-image:url(../img/banner_layer_grass.png);
+	background-repeat:repeat-x;
+	background-position:center bottom;
+	padding-bottom:0;
+	margin-bottom:0;
+}
+.color_seccion{
+	background-color:#CCC;
+	margin-bottom: 5px;
+}
+/*secciones de inicio*/
+.main{
+	margin-bottom:20px;
+}
+.post{
+	padding-top:10px;
+	padding-bottom:20px;
+	margin-bottom:20px;
+	border-bottom:1px solid #999;
+}
+.post .post-tittle a{
+	color:#083098;
+	text-decoration:none;
+}
+.post-contenido{
+	font-size:26px;
+}
+.post .thumb{
+	margin-right:10px;
+	width:40%;
+}
+.post .thumb img{
+	width:100%;
+}
+.numero_tel{
+	font-size:50px;
+}
+.text_titulo_principal{
+	font-weight:bold;
+	color:#900;
+}
+
+.text_titulo_secundario{
+	color:#006;
+}
+.text-tamano{
+	font-size:16px;
+}
+.tex_jumbotron_uno{
+	color:#0C0;
+	font-weight:bolder;
+}
+.tex_boton_abajo{
+	color:#900;
+	font-weight:bolder;
+}
+.tex_arriba{
+	color:#00C;
+	font-weight:bolder;
+}
+.tex_jumbotron_sale{
+	color:#F30;
+	font-weight:bolder;
+}
+.nombre_persona
+{
+	color:#FFF;
+}
+.diputados
+{
+	background-color:#FF0;
+}
+.alcaldes
+{
+	background-color:#C9C;
+}
+.presidente
+{
+	background-color:#06F;
+}
+.presidente a
+{
+	color:#fff;
+}
+/*MEDIAquerie*/
+@media screen and (max-width: 800px){
+	.post .thumb{
+		width:100%;
+		padding-bottom:20px;
+		margin-right:0x;
+	}
+	.post-contenido{
+	font-size:19px;
+}
+	.img{
+		width:100%;
+		margin-right:2px;
+}
+.parrafo_responsive{
+	width:100%;
+}
